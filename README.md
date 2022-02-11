@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey, I'm Leul Ayalew! 👋🏽
 
-I'm a Frontend developer based in Addis Ababa, Ethiopia who has a passion to build things that impact people's day to day lives to make them better. Currently, I am interested in Typescript,Javascript, React, React Native, and building consumer Mobile and Web apps and developer tools.
+Hello, I'm Leul Ayalew! 👋🏽
 
-In my free time, you can catch me bike riding, walking, exploring, and talking to new people!
+I'm a Frontend (Web and Mobile) developer living in Addis Abeba, Ethiopia, with a desire to create things that improve people's daily lives. At the moment, I'm interested in Typescript, Javascript, React, React Native, and developing both mobile and web apps as well as developer tools.
+
+In my spare time, you may find me biking, walking, traveling, and meeting new people!
 
 
