@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ayuleul/ayuleul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey, I'm Leul Ayalew! 👋🏽
+
+I'm a Frontend developer based in Addis Ababa, Ethiopia who has a passion to build things that impact people's day to day lives to make them better. Currently, I am interested in Typescript,Javascript, React, React Native, and building consumer Mobile and Web apps and developer tools.
+
+In my free time, you can catch me bike riding, walking, exploring, and talking to new people!
+
+
