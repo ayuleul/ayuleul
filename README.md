@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Hello, I'm Leul Ayalew! 👋🏽
 
-I'm a Frontend (Web and Mobile) developer based in Addis Abeba, Ethiopia. For developing mobile and web apps, I frequently use Typescript, Javascript, React, and React Native. For mobile apps, I also enjoy flutter and java. I'm constantly trying to learn as much as I can.
+I'm a Frontend (Web and Mobile) developer based in Addis Abeba, Ethiopia. I frequently use Typescript, Javascript, React, and React Native. For mobile apps, I also enjoy flutter and java. I am dedicated to continuously developing, implementing and adopting new technologies to maximize development efficiency and develop innovative applications.
 
 You may find me walking and meeting new people in my spare time!
 
