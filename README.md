@@ -1,12 +1,10 @@
 
-<!--
-**ayuleul/ayuleul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Leul Ayalew</h1> 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayuleul&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuleul&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br/><br/><br/>
-“The only way to go fast, is to go well.”
--Robert C. Martin, Clean Architecture
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayuleul&label=Profile%20views&color=0e75b6&style=flat" alt="ayuleul" /> </p>
+
+<h2  align="center"></h2>
+<h2  align="center">“The only way to go fast, is to go well.” - Robert C. Martin, Clean Architecture</h2>
+
 
 
