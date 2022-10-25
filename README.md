@@ -2,22 +2,11 @@
 <!--
 **ayuleul/ayuleul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello, I'm Leul Ayalew! 👋🏽
-
-I'm a Frontend (Web and Mobile) developer based in Addis Abeba, Ethiopia. I frequently use Typescript, Javascript, React, and React Native. For mobile apps, I also enjoy flutter and kotlin. I am dedicated to continuously developing, implementing and adopting new technologies to maximize development efficiency and develop innovative applications.
-
-You may find me walking and meeting new people in my spare time!
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayuleul&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuleul&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/><br/><br/>
+“The only way to go fast, is to go well.”
+-Robert C. Martin, Clean Architecture
 
 
