@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-%20-blue?style=flat&logo=typescript&color=297acb&logoColor=white)
 ![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
-![](https://img.shields.io/badge/React' 'native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
+![](https://img.shields.io/badge/React%20native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
 ![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
 ![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/Android-%20-blue?style=flat&logo=android&color=a4c639&logoColor=a4c639)
