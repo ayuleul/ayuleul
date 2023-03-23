@@ -41,7 +41,10 @@
 ![](https://img.shields.io/badge/Sass-%20-black?style=flat&logo=sass&color=cc6699&logoColor=white)
 ![](https://img.shields.io/badge/styled%20components-%20-black?style=flat&logo=styled-components&color=db7093&logoColor=white)
 
-![](https://img.shields.io/badge/NodeJS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
+![](https://img.shields.io/badge/Node%20JS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
+![](https://img.shields.io/badge/Express%20JS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
+![](https://img.shields.io/badge/Nest%20JS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
+
 
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
