@@ -6,22 +6,14 @@
 
 ### I'm Leul Ayalew, and I've been a software engineer for over 3 years. I've designed, created, launched, and maintained extremely responsive websites, mobile, and web applications using advanced technologies, and this is my character..
 
-### My strongest skill is the ability to logically and rationally solve problems based on observed patterns.
+#### One of my greatest strengths is my ability to apply logical and rational thinking to effectively solve problems by making informed decisions
 
 <br>
 <a href="https://github.com/ayuleul">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ayuleul&hide=stars&show_icons=true&theme=dark&time=now" />
-</a>
-<a href="https://github.com/ayuleul">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuleul&layout=compact&theme=dark" />
 </a>
-<br>
-<br>
-<a href="https://wakatime.com/share/@ayuleul/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@ayuleul/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg" />
-</a>
-<a href="https://wakatime.com/share/@ayuleul/e977423f-cb3a-476e-bec2-2512b867456d.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@ayuleul/e977423f-cb3a-476e-bec2-2512b867456d.svg" />
+<a href="https://github.com/ayuleul">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ayuleul&hide=stars&show_icons=true&theme=dark&time=now" />
 </a>
 <br>
 <br>
