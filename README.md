@@ -4,9 +4,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuleul/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:ayuleul1427@gmail.com)
 
-### I'm Leul Ayalew, and I've been a software engineer for over 3 years. I've designed, created, launched, and maintained extremely responsive websites, mobile, and web applications using advanced technologies, and this is my character..
+#### I'm Leul Ayalew, and I've been a software engineer for over 3 years. I've designed, created, launched, and maintained extremely responsive websites, mobile, and web applications using advanced technologies, and this is my character..
 
-#### One of my greatest strengths is my ability to apply logical and rational thinking to effectively solve problems by making informed decisions
+##### One of my greatest strengths is my ability to apply logical and rational thinking to effectively solve problems by making informed decisions
 
 <br>
 <a href="https://github.com/ayuleul">
@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-%20-blue?style=flat&logo=typescript&color=297acb&logoColor=white)
 ![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
-![](https://img.shields.io/badge/React Native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
+![](https://img.shields.io/badge/React-Native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
 ![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
 ![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/Android-%20-blue?style=flat&logo=android&color=a4c639&logoColor=a4c639)
