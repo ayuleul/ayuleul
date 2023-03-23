@@ -1,4 +1,4 @@
-# Hi! ✨
+# Hi
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ayuleul)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuleul/)
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
 ![](https://img.shields.io/badge/React%20native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
 ![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
-![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
+![](https://img.shields.io/badge/Next%20js-%20-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/Android-%20-blue?style=flat&logo=android&color=a4c639&logoColor=a4c639)
 ![](https://img.shields.io/badge/Kotlin-%20-blue?style=flat&logo=kotlin&color=7F52FF&logoColor=white)
 
