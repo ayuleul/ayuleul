@@ -22,13 +22,12 @@
 
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-%20-blue?style=flat&logo=typescript&color=297acb&logoColor=white)
-![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
-![](https://img.shields.io/badge/React%20native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
-![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
-![](https://img.shields.io/badge/Next%20js-%20-black?style=flat&logo=next.js)
-![](https://img.shields.io/badge/Android-%20-blue?style=flat&logo=android&color=a4c639&logoColor=a4c639)
 ![](https://img.shields.io/badge/Kotlin-%20-blue?style=flat&logo=kotlin&color=7F52FF&logoColor=white)
 
+![](https://img.shields.io/badge/React%20native-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
+![](https://img.shields.io/badge/Next%20js-%20-black?style=flat&logo=next.js)
+![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
+![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
 
 ![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
