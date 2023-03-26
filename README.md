@@ -4,9 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuleul/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:ayuleul1427@gmail.com)
 
-#### I'm Leul Ayalew, and I've been a software engineer for over 3 years. I've designed, created, launched, and maintained websites, mobile and web apps using advanced technologies, and this is my character.
-
-##### One of my greatest strengths is my ability to apply logical and rational thinking to effectively solve problems by making informed decisions
+#### I'm Leul Ayalew, and I'm a Software Engineer, passionate about building beautiful and performant web and mobile applications.
 
 <br>
 <a href="https://github.com/ayuleul">
