@@ -7,7 +7,7 @@
 
 ### I'm Leul Ayalew,
 
-#### I'm a Software Engineer, passionate about building beautiful and performant web and mobile applications.
+#### A Software Engineer, passionate about building beautiful and performant web and mobile applications.
 
 <br>
 <a href="https://github.com/ayuleul">
