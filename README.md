@@ -3,6 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ayuleul)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuleul/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:ayuleul1427@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-%20-fff?style=flat&logo=Medium&logoColor=white)](https://ayuleul.medium.com/)
 
 #### I'm Leul Ayalew, and I'm a Software Engineer, passionate about building beautiful and performant web and mobile applications.
 
@@ -36,7 +37,6 @@
 
 ![](https://img.shields.io/badge/CSS-%20-black?style=flat&logo=css3&color=1572b6)
 ![](https://img.shields.io/badge/Sass-%20-black?style=flat&logo=sass&color=cc6699&logoColor=white)
-![](https://img.shields.io/badge/styled%20components-%20-black?style=flat&logo=styled-components&color=db7093&logoColor=white)
 
 ![](https://img.shields.io/badge/Node%20JS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
 ![](https://img.shields.io/badge/Express%20JS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
