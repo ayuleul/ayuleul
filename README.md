@@ -10,13 +10,6 @@
 #### A Software Engineer, passionate about building beautiful and performant web and mobile applications.
 
 <br>
-<a href="https://github.com/ayuleul">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuleul&layout=compact&theme=dark" />
-</a>
-<a href="https://github.com/ayuleul">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ayuleul&hide=stars&show_icons=true&theme=dark&time=now" />
-</a>
-<br>
 <br>
 
 ## Skills
