@@ -9,8 +9,6 @@
 
 #### A Software Engineer, passionate about building beautiful and performant web and mobile applications.
 
-<br>
-<br>
 
 ## Skills
 
